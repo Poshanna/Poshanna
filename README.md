@@ -91,7 +91,7 @@ Deep learning classifier designed to detect and grade knee osteoarthritis from r
 `Python` | `PyTorch` | `Scikit-Learn` | `Image Processing`
 *Key Achievement:* Developed convolutional models for efficient medical image feature classification.
 
-### [📊 AI-powered FMCG Analytics Assistant](https://github.com/Poshanna/AI-powered-FMCG-analytics-assistant)
+### [📊 FMCG Business Analytics Platform](https://github.com/Poshanna/FMCG-Business-Analytics-Platform)
 Intelligent conversational assistant designed to parse FMCG sales data and present real-time analytics.
 `Python` | `NLP` | `SQL` | `Data Analysis`
 *Key Achievement:* Integrated conversational query parsing to retrieve insights from relational database structures.
