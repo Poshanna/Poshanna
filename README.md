@@ -38,7 +38,7 @@
 name: Poshanna Durki
 located_in: Hyderabad, India
 education: Chaitanya Bharathi Institute of Technology
-role: AI/ML Developer & Data Science Enthusiast & Full Stack Developer
+role: AI/ML Developer &  Full Stack Developer
 current_focus:
   - 🧠 Deep Learning for Healthcare (Knee Osteoarthritis Detection)
   - 📊 FMCG Business Analytics Platform
