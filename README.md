@@ -1,6 +1,6 @@
 <!-- Animated Waving Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,00D9FF,60A5FA&height=180&section=header&text=Poshanna%20Durki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🚀%20AI/ML%20Developer%20%20Explorer&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,00D9FF,60A5FA&height=180&section=header&text=Poshanna%20Durki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🚀%20AI/ML%20Developer%20&descAlignY=52&descSize=18"/>
 </p>
 
 <!-- Animated Typing SVG -->
